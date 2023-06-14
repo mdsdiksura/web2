@@ -1,0 +1,19 @@
+@charset "utf-8";
+.container-fluid .container {
+}
+.container-fluid .container {
+    background-color: #E317F3;
+}
+body p {
+    background-color: #DC1418;
+}
+.card.col-md-4 .card-body .btn.btn-primary {
+}
+.card.col-md-4 .card-body .btn.btn-primary {
+}
+.card.col-md-4 .card-body .btn.btn-primary {
+    background-color: #E3F942;
+}
+.container .navbar.navbar-expand-lg.navbar-light.bg-light #navbarSupportedContent1 {
+    background-color: #F59CF3;
+}
